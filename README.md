@@ -4,6 +4,10 @@
 **Дисциплина:** Backend for Highloaded Environment (Fall 2026)  
 **Тема:** T3. To-Do / Task Tracker API  
 
+
+
+**SIS #2 (Protocol Implementation):** код и отчет по второй работе находятся в папке [`sis2_protocol/`](./sis2_protocol/README.md).
+
 ---
 
 ## 1. Требования к системе (Requirements)
